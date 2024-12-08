@@ -1,7 +1,7 @@
 [
   {
     "_id": "6748994ee167edebafa4c63b",
-    "Restaurant_Name": "Wendys",
+    "Restaurant_Name": "Barkaas",
     "Menu": "Chicken Burger",
     "Orders": 1,
     "Billing": "Prepaid",
@@ -62,8 +62,8 @@
     "Billing": "Prepaid",
     "TypeOfPayment": "Cash",
     "NumberOfItems": 4,
-    "Ratings": 4,
-    "Reviews": "Excellent"
+    "Reviews": "Excellent",
+    "Rating": 4
   },
   {
     "_id": "67489ed79ac2a350dcec3905",
@@ -81,10 +81,10 @@
     "Restaurant_Name": "Coromondal",
     "Menu": "Garlic Naan",
     "Orders": 2,
-    "Billings": "Prepaid",
     "TypeOfPayment": "Cash",
     "NumberOfItems": 3,
     "Rating": 2,
-    "Reviews": "Good"
+    "Reviews": "Good",
+    "Billing": "Prepaid"
   }
 ]
